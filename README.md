@@ -1,3 +1,6 @@
+# exceptional realty site bootstrapped version
+ this is an example website. more information on using bootstrap can be found at getbootstrap.com
+
 # bootstrap-codealong
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/o5UCDvaNLd8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
